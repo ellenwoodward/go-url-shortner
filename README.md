@@ -1,4 +1,4 @@
-# go-url-shortner
+# URL Shortner - Go
 
 A URL shortener built in Go using a layered architecture (handler → service → repository) with PostgreSQL for persistence.
 
